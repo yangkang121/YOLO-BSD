@@ -1,0 +1,13 @@
+# dataset path
+train: G:/yk/Vehicle_smoke/images/train
+val: G:/yk/Vehicle_smoke/images/val
+test: G:/yk/Vehicle_smoke/images/test
+
+
+# number of classes
+nc: 1
+
+# class names
+names: [
+  'smoke'
+]
